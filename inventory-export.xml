@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventory-tracker application="Aloha RMR &amp; Wakitos Pizza Inventory Tracker" exportDate="2026-10-16T12:35:22.950Z">
+  <items>
+    <item id="1" name="pizza dough" category="Dough" unit="box" quantity="20" reorderLevel="1" unitCost="600" status="good" updated="2026-10-16T11:05:57.830Z"/>
+  </items>
+  <movements>
+  </movements>
+  <dailyNotes>
+  </dailyNotes>
+</inventory-tracker>
